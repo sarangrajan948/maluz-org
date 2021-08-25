@@ -10,12 +10,12 @@
 .texti{
   width: 100%;
   border: none;
-  border-bottom: 2px solid #c6d3dd;
+  border-bottom: 2px solid #f5f9fc;
   font-size: 20px;
   margin: 8px 0;
   display: block;
   outline: none;
-  color: gray;
+  color: white;
 }
 .textm{
   width: 100%;
@@ -412,7 +412,7 @@
     width:328px;
   }
   .single_hero {
-    background-image: url(/assets/images/ss.jpg);
+    background-image: url(/assets/images/24-2.jpg);
   }
 }
 @media only screen and (max-width: 1800px) and (min-width: 600px)  {
@@ -420,7 +420,7 @@
     width:468px;
   }
   .single_hero {
-    background-image: url(/assets/images/sssss.jpg);
+    background-image: url(/assets/images/24-1.jpg);
   }
   .cdp{
     margin-top: 9rem;

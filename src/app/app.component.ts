@@ -35,6 +35,21 @@ export class AppComponent {
 
   portfolio = [
 
+    { img: "./assets/images/333.jpg" },
+    { img: "./assets/images/555.jpg" },
+    { img: "./assets/images/666.jpg" },
+    { img: "./assets/images/444.jpg" },
+
+    { img: "./assets/images/198.jpg" },
+    { img: "./assets/images/269.jpg" },
+    { img: "./assets/images/270.jpg" },
+    { img: "./assets/images/197.jpg" },
+
+    { img: "./assets/images/24-1.jpg" },
+    { img: "./assets/images/24-2.jpg" },
+    { img: "./assets/images/24-1.jpg" },
+    { img: "./assets/images/24-2.jpg" },
+
     { img: "./assets/images/51.jpeg" },
     { img: "./assets/images/52.jpeg" },
     { img: "./assets/images/53.jpeg" },
